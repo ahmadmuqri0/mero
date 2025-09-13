@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-    <title>Mero</title>
+    <title>Laravelte</title>
     <link rel="preconnect" href="https://rsms.me/" />
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
 </svelte:head>
