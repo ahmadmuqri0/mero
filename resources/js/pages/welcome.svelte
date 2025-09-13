@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-    <title>Mero | A humble note taking app</title>
+    <title>Mero</title>
     <link rel="preconnect" href="https://rsms.me/" />
     <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
 </svelte:head>
